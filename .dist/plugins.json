@@ -46,11 +46,11 @@
 	},
 	{
 		"id": "novel4up",
-		"name": "Novel4Up",
-		"site": "https://novel4up.com/",
+		"name": "realmnovel",
+		"site": "https://www.realmnovel.com/",
 		"lang": "‎العربية",
-		"version": "1.0.7",
-		"url": "https://raw.githubusercontent.com/LNReader/lnreader-plugins/plugins/v3.0.0/.js/src/plugins/arabic/Novel4Up[madara].js",
+		"version": "1.0.8",
+		"url": "https://raw.githubusercontent.com/Zoro3mk2772/lnreader-plugins/Kol/.js/src/plugins/arabic/Novel4Up[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/LNReader/lnreader-plugins/plugins/v3.0.0/public/static/multisrc/madara/novel4up/icon.png"
 	},
 	{
