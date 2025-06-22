@@ -10,11 +10,11 @@
 	},
 	{
 		"id": "azora",
-		"name": "Azora",
-		"site": "https://azoramoon.com/",
+		"name": "spacenovel",
+		"site": "https://cenele.com/",
 		"lang": "‎العربية",
 		"version": "1.0.8",
-		"url": "https://raw.githubusercontent.com/LNReader/lnreader-plugins/plugins/v3.0.0/.js/src/plugins/arabic/Azora[madara].js",
+		"url": "https://raw.githubusercontent.com/Zoro3mk2772/lnreader-plugins/Kol/.js/src/plugins/arabic/Azora[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/LNReader/lnreader-plugins/plugins/v3.0.0/public/static/multisrc/madara/azora/icon.png"
 	},
 	{
