@@ -38,9 +38,9 @@
 	{
 		"id": "kolnovel",
 		"name": "Kol Novel",
-		"site": "https://kolnovel.com",
+		"site": "https://koltry.life/",
 		"lang": "‎العربية",
-		"version": "1.1.15",
+		"version": "1.1.14",
 		"url": "https://raw.githubusercontent.com/Zoro3mk2772/lnreader-plugins/Kol/.js/src/plugins/arabic/KolNovel[lightnovelwp].js",
 		"iconUrl": "https://raw.githubusercontent.com/Zoro3mk2772/lnreader-plugins/Kol/public/static/multisrc/lightnovelwp/kolnovel/icon.png"
 	},
